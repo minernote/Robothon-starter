@@ -1,0 +1,14 @@
+{
+  "project": "ChargeMate: Closed-Loop EV Charging Benchmark",
+  "episodes": 20,
+  "success_rate": 1.0,
+  "mean_lateral_error_m": 0.00803,
+  "mean_depth_error_m": 0.01794,
+  "mean_peak_contact_force_n": 6.0,
+  "force_clip_n": 120.0,
+  "mean_completion_time_s": 1.256,
+  "retry_rate": 0.05,
+  "successes": 20,
+  "failures": [],
+  "generated_at_unix": 1782149343
+}
